@@ -1,6 +1,6 @@
 [![Logo Image](https://cdn.pterodactyl.io/logos/new/pterodactyl_logo.png)](https://pterodactyl.io)
 
-## Custom Version for VOMHost!
+## Custom version from VOMHost!
 
 ![Discord](https://img.shields.io/discord/122900397965705216?label=Discord&logo=Discord&logoColor=white)
 ![GitHub Releases](https://img.shields.io/github/downloads/pterodactyl/wings/latest/total)
